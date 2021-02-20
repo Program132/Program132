@@ -1,18 +1,12 @@
-<p align="center">
+<h1 align="center">
     Program
-</p>
-
-<br>
+</h1>
 
 ## Hello and welcome to my profil !
 
 <p align="center">
     <i>You can found my <a href="">website</a> !</i>
 </p>
-
-<br>
-<br>
-<br>
 
 ## Content
 
@@ -24,10 +18,6 @@
     </ul>
 </p>
 
-<br>
-<br>
-<br>
-
 ## My langages I'm using.
 
 <p align="center">
@@ -35,22 +25,8 @@
     <img width=64px source="lua.png" />&nbsp;&nbsp;
     <img width=64px source="csharp.jpg" />&nbsp;&nbsp;
     <img width=64px source="cpp.png" />&nbsp;&nbsp;
-    <img width=64px source="py.png" />&nbsp;&nbsp;
+    <img width=64px source="py.png" />
 </p>
-
-<br>
-<br>
-<br>
-
-## My statistics
-
-<p align="center">
-    <img src=https://github-readme-stats.program132.vercel.app/api?username=Program132&show_icons=true&count_private=true&theme=synthwave&include_all_commits=true alt="Program132 Stats" />
-</p>
-
-<br>
-<br>
-<br>
 
 ## My links
 
