@@ -24,8 +24,8 @@
     <img width="64px" src="cpp.png" />&nbsp;&nbsp;
     <img width="64px" src="csharp.jpg" />&nbsp;&nbsp;
     <img width="64px" src="py.png" />&nbsp;&nbsp;
-    <img width="172px" src="lua.png" />&nbsp;&nbsp;
-    <img width="64px" src="ArkScript.png" />
+    <img width="64px" src="lua.png" />&nbsp;&nbsp;
+    <img width="128px" src="ArkScript.png" />
 </p>
 
 ## My links
