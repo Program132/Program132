@@ -32,6 +32,5 @@
 ## My links
 
 - [Discord : Program Entertainment](https://discord.gg/dkkPWZmS92 "Program Entertainment | Server Discord")
-- [Youtube : Program Entertainment](https://www.youtube.com/channel/UCIp6bK6Jmtdk4IL-CZPVWgw "Program Entertainment | Youtube")
-- [Twitter : Program Entertainment](https://twitter.com/ScriptingbeyRBX "Program Entertainment | Twitter")
-- [Website : Program / Program132](https://program132.github.io/ "Program | Website")
+- [Twitter : Program](https://twitter.com/ScriptingbeyRBX "Program | Twitter")
+- [Website : Program](https://program132.github.io/ "Program | Website")
