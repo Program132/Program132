@@ -1,5 +1,6 @@
 <h1 align="center">
     Program
+    <img src="img/pe.png" width="128" height="128">
 </h1>
 
 ## Hello and welcome to my profil !
@@ -13,7 +14,7 @@
 <p>In my profil you can found my projects and more, who are (where I am most active):
     <ul>
         <li><a href="https://github.com/Program132/PRC">CSMM</a>, Mods Minecraft for test :).</li>
-        <li><a href="https://github.com/Program132/program132.github.io"><img src="img/pe.png" width="16" height="16">Program Entertainment WebSite</a>, source code of my website.</li>
+        <li><a href="https://github.com/Program132/program132.github.io">Program Entertainment WebSite</a>, source code of my website.</li>
         <li><a href="https://github.com/Program132/ArkScript">My code in ArkScript</a>, a programming langage by <a href="https://github.com/SuperFola">SuperFola</a> !</li>
         <li><a href="https://github.com/Program132/C">C++</a>, my code in C++.</li>
     </ul>
