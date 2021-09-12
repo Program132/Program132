@@ -12,9 +12,10 @@
 
 <p>In my profil you can found my projects and more, who are (where I am most active):
     <ul>
-        <li><a href="https://github.com/Program132/PRC">PRC</a>, a programming langage !</li>
+        <li><a href="https://github.com/Program132/PRC">CSMM</a>, Mods Minecraft for test :).</li>
+        <li><a href="https://github.com/Program132/program132.github.io"><img src="pe" width="16" height="16">Program Entertainment WebSite</a>, source code of my website.</li>
         <li><a href="https://github.com/Program132/ArkScript">My code in ArkScript</a>, a programming langage by <a href="https://github.com/SuperFola">SuperFola</a> !</li>
-        <li><a href="https://github.com/Program132/C">C++ & C#</a>, my code in C++ and in C#.</li>
+        <li><a href="https://github.com/Program132/C">C++</a>, my code in C++.</li>
     </ul>
 </p>
 
@@ -22,10 +23,9 @@
 
 <p align="center">
     <img width="64px" src="cpp.png" />&nbsp;&nbsp;
-    <img width="64px" src="csharp.jpg" />&nbsp;&nbsp;
     <img width="64px" src="py.png" />&nbsp;&nbsp;
     <img width="64px" src="lua.png" />&nbsp;&nbsp;
-    <img width="64px" src="webLogo.png" />&nbsp;&nbsp;
+    <img width="64px" src="Web" />&nbsp;&nbsp;
     <img width="128px" src="ArkScript.png" />
 </p>
 
