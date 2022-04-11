@@ -16,7 +16,7 @@
         <li><a href="https://github.com/Program132/PRC">CSMM</a>, Mods Minecraft for test :).</li>
         <li><a href="https://github.com/Program132/program132.github.io">Program Entertainment WebSite</a>, source code of my website.</li>
         <li><a href="https://github.com/Program132/ArkScript">My code in ArkScript</a>, a programming langage by <a href="https://github.com/SuperFola">SuperFola</a> !</li>
-        <li><a href="https://github.com/Program132/C">C++</a>, my code in C++.</li>
+        <li><a href="https://github.com/Program132/cpp">C++</a>, my code in C++.</li>
     </ul>
 </p>
 
@@ -34,4 +34,4 @@
 
 - [Discord : Program Entertainment](https://discord.gg/dkkPWZmS92 "Program Entertainment | Server Discord")
 - [Twitter : Program](https://twitter.com/ScriptingbeyRBX "Program | Twitter")
-- [Website : Program](https://program132.github.io/ "Program | Website")
+- [Website : Program](https://program132.github.io/main.html "Program | Website")
