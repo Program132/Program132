@@ -5,13 +5,13 @@
 
 ## Profile
 
-Welcome to my profile, I am Program, 17 years old and developer for 7 years.
+I'm Program, high school student and 17 years old (developer for 7 years).
+
+
 
 <p align="center">
     <i>You can found my <a href="https://program132.github.io/home.html">website</a> !</i>
 </p>
-
-My knowledges : Mods and Plugin on Minecraft (Java), Games and Plugins on Roblox Studio(Lua/Luau), Basics on Unreal Engine 5, C++, Python, Web and a little ArkScript (created by <a href="https://github.com/SuperFola">Superfola</a>)
 
 ## Content
 
