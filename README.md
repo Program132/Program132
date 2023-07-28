@@ -11,7 +11,7 @@ Welcome to my profile, I am Program, 17 years old and developer for 7 years.
     <i>You can found my <a href="https://program132.github.io/home.html">website</a> !</i>
 </p>
 
-My knowledges : Mods and Plugin on Minecraft (Java), Games and Plugins on Roblox Studio(Lua/Luau), Basics on Unreal Engine 5, C++, Python, Web and a little ArkScript (created by <a href="https://github.com/SuperFola">Superfola</a>
+My knowledges : Mods and Plugin on Minecraft (Java), Games and Plugins on Roblox Studio(Lua/Luau), Basics on Unreal Engine 5, C++, Python, Web and a little ArkScript (created by <a href="https://github.com/SuperFola">Superfola</a>)
 
 ## Content
 
@@ -26,10 +26,10 @@ My knowledges : Mods and Plugin on Minecraft (Java), Games and Plugins on Roblox
 ## Langages/framework/libs I'm using.
 
 <p align="center">
-    <img width="64px" src="img/cpp.png" />&nbsp;&nbsp;
-    <img width="64px" src="img/Python logo.png" />&nbsp;&nbsp;
-    <img width="64px" src="img/lua.png" />&nbsp;&nbsp;
-    <img width="64px" src="img/Web.png" />&nbsp;&nbsp;
+    <img width="128px" src="img/cpp.png" />&nbsp;&nbsp;
+    <img width="128px" src="img/Python logo.png" />&nbsp;&nbsp;
+    <img width="128px" src="img/lua.png" />&nbsp;&nbsp;
+    <img width="128px" src="img/Web.png" />&nbsp;&nbsp;
     <img width="128px" src="img/ArkScript.png" />
     <img width="128px" src="img/UE5.png" />
     <img width="128px" src="img/DJS.png" />
