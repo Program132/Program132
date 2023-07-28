@@ -1,6 +1,6 @@
 <h1 align="center">
     Program<br>
-    <img src="img/Logo PE V2.png" width="400" height="300">
+    <img src="img/Logo PE V2.png">
 </h1>
 
 ## Hello and welcome to my profil !
