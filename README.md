@@ -6,17 +6,16 @@
 ## Hello and welcome to my profil !
 
 <p align="center">
-    <i>You can found my <a href="https://program132.github.io/main.html">website</a> !</i>
+    <i>You can found my <a href="https://program132.github.io/home.html">website</a> !</i>
 </p>
 
 ## Content
 
 <p>In my profil you can found my projects and more, who are (where I am most active):
     <ul>
-        <li><a href="https://github.com/Program132/PRC">CSMM</a>, Mods Minecraft for test :).</li>
-        <li><a href="https://github.com/Program132/program132.github.io">Program Entertainment WebSite</a>, source code of my website.</li>
-        <li><a href="https://github.com/Program132/ArkScript">My code in ArkScript</a>, a programming langage by <a href="https://github.com/SuperFola">SuperFola</a> !</li>
-        <li><a href="https://github.com/Program132/cpp">C++</a>, my code in C++.</li>
+        <li><a href="https://github.com/French-Programming-Language">French Programming Language (F.P.L)</a>, a programming language which use french expressions</li>
+        <li><a href="https://github.com/Program132/P-IDE">P-IDE (Program IDE)</a>, my own IDE for my projects (it includes: C++, Lua, Java, TypeScript, F.P.L, Python, ArkScript)</li>
+        <li><a href="https://github.com/Pruglins">Pruglins (Program Plugins)</a>, plugins I created for Minecraft</li>
     </ul>
 </p>
 
@@ -32,6 +31,7 @@
 
 ## My links
 
-- [Discord : Program Entertainment](https://discord.gg/dkkPWZmS92 "Program Entertainment | Server Discord")
-- [Twitter : Program](https://twitter.com/ScriptingbeyRBX "Program | Twitter")
-- [Website : Program](https://program132.github.io/main.html "Program | Website")
+- [Program Entertainment Discord](https://discord.gg/gVt5eUQbvp)
+- [Personal Twitter](https://twitter.com/Program_Off)
+- [Studio Twitter](https://twitter.com/ProgramE_Off)
+- [Website](https://program132.github.io/home.html")
