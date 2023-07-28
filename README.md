@@ -7,7 +7,7 @@
 
 I'm Program, high school student and 17 years old (developer for 7 years).
 
-
+Working in IT : coding, ethical hacker, a little about hardware (motherboard, RAM, etc.).
 
 <p align="center">
     <i>You can found my <a href="https://program132.github.io/home.html">website</a> !</i>
