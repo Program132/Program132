@@ -1,6 +1,6 @@
 <h1 align="center">
     Program<br>
-    <img src="img/pe.png" width="400" height="300">
+    <img src="img/Logo PE V2.png" width="400" height="300">
 </h1>
 
 ## Hello and welcome to my profil !
@@ -19,14 +19,19 @@
     </ul>
 </p>
 
-## My langages I'm using.
+## Langages/framework/libs I'm using.
 
 <p align="center">
     <img width="64px" src="img/cpp.png" />&nbsp;&nbsp;
-    <img width="64px" src="img/py.png" />&nbsp;&nbsp;
+    <img width="64px" src="img/Python logo.png" />&nbsp;&nbsp;
     <img width="64px" src="img/lua.png" />&nbsp;&nbsp;
     <img width="64px" src="img/Web.png" />&nbsp;&nbsp;
     <img width="128px" src="img/ArkScript.png" />
+    <img width="128px" src="img/UE5.png" />
+    <img width="128px" src="img/DJS.png" />
+    <img width="128px" src="img/FPL Logo (Cubique).png" />
+    <img width="128px" src="img/JS Logo.png" />
+    <img width="128px" src="img/TS Logo.png" />
 </p>
 
 ## My links
