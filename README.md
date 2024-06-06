@@ -5,7 +5,7 @@
 
 ## Profile
 
-I'm Program, high school student and 17 years old (developer for 7 years).
+I'm Program, high school student and 18 years old (developer for 8 years).
 
 Working in IT : coding, ethical hacker, a little about hardware (motherboard, RAM, etc.).
 
