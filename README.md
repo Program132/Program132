@@ -1,6 +1,5 @@
 <h1 align="center">
     Program<br>
-    <img src="img/Logo PE V2.png">
 </h1>
 
 ## Profile
