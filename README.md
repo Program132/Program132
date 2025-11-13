@@ -4,21 +4,20 @@
 
 ## Profile
 
-I'm Program, high school student and 18 years old (developer for 8 years).
+I'm Program, high school student and 19 years old (developer for 9 years).
 
 Working in IT : coding, ethical hacker, a little about hardware (motherboard, RAM, etc.).
 
 <p align="center">
-    <i>You can found my <a href="https://program132.github.io/home.html">website</a> !</i>
+    <i>You can found my <a href="https://program132.github.io/">website</a> !</i>
 </p>
 
 ## Content
 
 <p>In my profil you can found my projects and more, who are (where I am most active):
     <ul>
-        <li><a href="https://github.com/French-Programming-Language">French Programming Language (F.P.L)</a>, a programming language which use french expressions</li>
-        <li><a href="https://github.com/Program132/P-IDE">P-IDE (Program IDE)</a>, my own IDE for my projects (it includes: C++, Lua, Java, TypeScript, F.P.L, Python, ArkScript)</li>
-        <li><a href="https://github.com/Pruglins">Pruglins (Program Plugins)</a>, plugins I created for Minecraft</li>
+        <li><a href="https://github.com/Program132/BlueprintRobloxEditor">BlueprintRobloxEditor, an editor to code in Luau with nodes / blocks</a></li>
+        <li><a href="https://github.com/Program132/TextGameEngine">A text game engine to create your own game in a terminal :></a></li>
     </ul>
 </p>
 
@@ -28,18 +27,7 @@ Working in IT : coding, ethical hacker, a little about hardware (motherboard, RA
     <img width="128px" src="img/cpp.png" />&nbsp;&nbsp;
     <img width="128px" src="img/Python logo.png" />&nbsp;&nbsp;
     <img width="128px" src="img/lua.png" />&nbsp;&nbsp;
-    <img width="128px" src="img/Web.png" />&nbsp;&nbsp;
     <img width="128px" src="img/ArkScript.png" />
     <img width="128px" src="img/UE5.png" />
     <img width="128px" src="img/DJS.png" />
-    <img width="128px" src="img/FPL Logo (Cubique).png" />
-    <img width="128px" src="img/JS Logo.png" />
-    <img width="128px" src="img/TS Logo.png" />
 </p>
-
-## My links
-
-- [Program Entertainment Discord](https://discord.gg/gVt5eUQbvp)
-- [Personal Twitter](https://twitter.com/Program_Off)
-- [Studio Twitter](https://twitter.com/ProgramE_Off)
-- [Website](https://program132.github.io/home.html")
