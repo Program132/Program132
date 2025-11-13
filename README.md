@@ -16,8 +16,8 @@ Working in IT : coding, ethical hacker, a little about hardware (motherboard, RA
 
 <p>In my profil you can found my projects and more, who are (where I am most active):
     <ul>
-        <li><a href="https://github.com/Program132/BlueprintRobloxEditor">BlueprintRobloxEditor, an editor to code in Luau with nodes / blocks</a></li>
-        <li><a href="https://github.com/Program132/TextGameEngine">A text game engine to create your own game in a terminal :></a></li>
+        <li><a href="https://github.com/Program132/BlueprintRobloxEditor">BlueprintRobloxEditor</a>An editor to code in Luau with nodes / blocks</li>
+        <li><a href="https://github.com/Program132/TextGameEngine">TextGameEngine</a>Text game engine to create your own game in a terminal :></li>
     </ul>
 </p>
 
